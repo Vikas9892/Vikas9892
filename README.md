@@ -1,92 +1,46 @@
-# Hi, I'm Vikas Tiwari
+# 💫 About Me
 
-## Software Engineering Enthusiast | C++ Developer | Problem Solver
+🔭 **Currently Working On**
+Building scalable full-stack applications, backend systems, and real-world software projects using the MERN stack, Redis, Docker, and modern web technologies.
 
-I am a third-year B.Tech student at IIIT Bhopal with a strong interest in software development, backend engineering, and building scalable applications. I enjoy solving algorithmic problems, exploring new technologies, and applying computer science fundamentals to real-world challenges.
+👯 **Open to Collaborate On**
+Open-source contributions, full-stack web applications, backend engineering projects, and developer tools.
 
-## About Me
+🤝 **Seeking Guidance In**
+System design, distributed systems, cloud infrastructure, and performance optimization for large-scale applications.
 
-* Third-year undergraduate at IIIT Bhopal
-* Strong foundation in Data Structures and Algorithms
-* Interested in Software Development, Backend Engineering, and AI-powered applications
-* Currently learning System Design, Machine Learning, and Cloud Technologies
-* Passionate about building efficient and maintainable software
+🌱 **Currently Learning**
+Advanced Data Structures & Algorithms, system design, scalable backend architectures, and cloud-native development.
 
-## Technical Skills
+💬 **Ask Me About**
+C++, JavaScript, React.js, Node.js, Express.js, MongoDB, Redis, Docker, REST APIs, and competitive programming.
 
-### Programming Languages
+🏆 **Highlights**
+• 750+ LeetCode problems solved
+• Codeforces Specialist
+• CodeChef 3★ Coder
+• Smart India Hackathon Finalist
+• Passionate about building scalable and impactful software
 
-* C++
-* Python
-* JavaScript
-* SQL
+⚡ **Fun Fact**
+I enjoy solving challenging algorithmic problems, contributing to open source, and turning ideas into production-ready applications.
 
-### Frameworks and Technologies
 
-* React
-* Node.js
-* Express.js
-* FastAPI
-* Git
-* GitHub
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adesh_mishrra) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adesh-mishra-646ba128b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mishraadesh770@gmail.com) 
 
-### Databases
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=adeshmishir&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=adeshmishir&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=adeshmishir&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-* MySQL
-* PostgreSQL
-* MongoDB
+---
+[![](https://visitcount.itsvg.in/api?id=adeshmishir&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### Core Computer Science
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/adesh_mishraa) 
 
-* Data Structures and Algorithms
-* Object-Oriented Programming
-* Database Management Systems
-* Operating Systems
-* Computer Networks
-* Software Engineering
-
-## What You'll Find Here
-
-### Software Projects
-
-Repositories focused on full-stack development, backend systems, APIs, database-driven applications, and machine learning.
-
-### Problem Solving
-
-Solutions to algorithmic and data structure problems from various competitive programming and coding platforms.
-
-### Learning and Exploration
-
-Projects and experiments involving emerging technologies, software architecture, and practical applications of computer science concepts.
-
-## Current Focus
-
-* Building production-ready software projects
-* Strengthening system design fundamentals
-* Exploring AI and machine learning applications
-* Contributing to open-source projects
-* Preparing for Software Development Engineer roles
-
-## Featured Projects
-
-### AI Stock Market Analysis
-
-A Python-based system for analyzing market data, evaluating strategies, and generating insights through data-driven approaches.
-
-### Hospital Management API
-
-A backend application built using FastAPI with database integration, validation, and RESTful APIs.
-
-### Portfolio Optimization System
-
-A project focused on portfolio analysis and optimization using quantitative techniques and financial data.
-
-## Connect
-
-LinkedIn: [Add LinkedIn URL]
-
-Email: [Add Email]
-
-GitHub: [Add GitHub URL]
-
-> "First, solve the problem. Then, write the code."
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
