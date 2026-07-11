@@ -18,16 +18,26 @@
   <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
 </a>
 
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Open%20to%20Software%20Engineering%20Internships-2ea44f?style=for-the-badge"/>
+
 </div>
 
 <br/>
+
+## About Me
+
+I'm a B.Tech Information Technology student at IIIT Bhopal who learns by building things fully, not partially — I'd rather ship one system I understand end-to-end than clone ten tutorials I don't. That instinct is why I built a key-value store from raw TCP sockets instead of just using Redis, and why I built an evaluation harness for my RAG pipeline instead of assuming it worked because it "looked right" once.
 
 I build systems end-to-end and **measure** whether they actually work, rather than assuming it — from a C++ key-value store with custom networking and concurrency, to a retrieval-augmented generation pipeline with its own evaluation harness, to full-stack platforms with real CI/CD gates.
 
 - 🎓 B.Tech Information Technology @ **IIIT Bhopal** (2023 – 2027) · CGPA 8.43
 - 🧠 **Codeforces Specialist** · **CodeChef 4★** · 500+ DSA problems solved
 - 🔭 Currently exploring distributed consensus (leader election, quorum replication) and cloud-native deployment patterns
+- 🌱 Learning by extending my own projects rather than starting over each time — KV_STORE's next phase adds multi-node replication with leader election
 - 💬 Ask me about async architectures, epoll servers, or hybrid retrieval design
+- 📫 Reach me at [vikast4843@gmail.com](mailto:vikast4843@gmail.com) or [LinkedIn](https://www.linkedin.com/in/vikas-tiwari-71b5482a7)
 
 <br/>
 
