@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:1E40AF,100:2563EB&text=Vikas%20Tiwari&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=Building%20Production-Ready%20Backend%20%26%20AI%20Systems&descAlignY=60&descColor=e5e7eb"/>
+<p align="center">
+  <img src="./banner.png" alt="Vikas Tiwari Banner" width="100%">
+</p>
 
 <a href="https://www.linkedin.com/in/vikas-tiwari-71b5482a7">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -230,7 +232,7 @@ A full-stack quantitative portfolio optimization platform implementing Modern Po
 
 ### 💻 DSA
 
-**500+ Problems Solved**
+**700+ Problems Solved**
 
 Across LeetCode, Codeforces & CodeChef
 
