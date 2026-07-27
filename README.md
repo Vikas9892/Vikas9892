@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f1720,100:1155CC&height=180&section=header&text=Vikas%20Tiwari&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20%7C%20AI%20Systems%20%7C%20Distributed%20Systems&descAlignY=58&descSize=18&descColor=e2e8f0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:1E40AF,100:2563EB&text=Vikas%20Tiwari&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=Building%20Production-Ready%20Backend%20%26%20AI%20Systems&descAlignY=60&descColor=e5e7eb"/>
 
 <a href="https://www.linkedin.com/in/vikas-tiwari-71b5482a7">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
