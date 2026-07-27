@@ -181,13 +181,8 @@ A full-stack quantitative portfolio optimization platform implementing Modern Po
 <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square"/>
 <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square"/>
 </p>
+
 # GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Vikas9892&theme=github-dark&hide_border=true"/>
-
-</div>
 
 <div align="center">
 
@@ -196,6 +191,8 @@ A full-stack quantitative portfolio optimization platform implementing Modern Po
 <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Vikas9892&theme=github_dark&utcOffset=5.5"/>
 
 </div>
+
+<br>
 
 <div align="center">
 
